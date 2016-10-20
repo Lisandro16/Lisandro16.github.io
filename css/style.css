@@ -1,0 +1,28 @@
+h1 {background-color:black;
+  color:white; 
+}
+body {background-color:pink}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid block;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(odd) {  
+    background-color: white;
+}
+h2 {border: solid; background-color: gray}
